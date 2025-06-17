@@ -65,7 +65,7 @@ group :test do
 end
 
 # AI tooling
-gem "langchainrb"
+gem "langchainrb_rails"
 gem "openai"
 gem "ruby-openai"
 
@@ -79,3 +79,4 @@ gem "sidekiq"
 gem "nokogiri"
 
 gem "devise"
+gem "pinecone"
